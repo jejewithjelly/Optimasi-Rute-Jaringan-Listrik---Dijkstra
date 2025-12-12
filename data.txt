@@ -1,0 +1,23 @@
+PLN (V1),Patung Wisnu (V2),1.69 
+Patung Wisnu (V2),Lampu Merah Girimulyo (V3),0.251
+Patung Wisnu (V2),Bahagia Bersama Kopi (V4),1.09
+Lampu Merah Girimulyo (V3),Tugu Adipura (V5),1.57
+Lampu Merah Girimulyo (V3),Jalan Raya Solo (V6),1.51
+Bahagia Bersama Kopi (V4),Jalan Raya Solo (V6),1.26
+Bahagia Bersama Kopi (V4),Pertigaan Patung Semar (V12),3.15
+Tugu Adipura (V5),Pertigaan Jalan Kapten Piere Tendean Ki Mangun Sarkoro (V9),1.10
+Tugu Adipura (V5),Simpang Nusukan (V8),1.51
+Jalan Raya Solo (V6),Perempatan Jalan Raya Solo - Jalan Kapten Piere Tendean (V7),0.806
+Perempatan Jalan Raya Solo - Jalan Kapten Piere Tendean (V7),Perempatan Ngemplak (V10),0.962
+Simpang Nusukan (V8),Perempatan Jalan Raya Solo - Jalan Kapten Piere Tendean (V7),0.118
+Pertigaan Jalan Kapten Piere Tendean Ki Mangun Sarkoro (V9),Simpang Nusukan (V8),1.23
+Pertigaan Jalan Kapten Piere Tendean Ki Mangun Sarkoro (V9),Perempatan Ngemplak (V10),2.00
+Pertigaan Jalan Kapten Piere Tendean Ki Mangun Sarkoro (V9),Lampu Merah Dr Oen (V14),3.88
+Perempatan Ngemplak (V10),Pertigaan Jalan A.Yani - Jalan Tentara Pelajar (V11),0.183
+Pertigaan Jalan A.Yani - Jalan Tentara Pelajar (V11),Lampu Merah Dr Oen (V14),0.909
+Pertigaan Jalan A.Yani - Jalan Tentara Pelajar (V11),Pertigaan Patung Semar (V12),0.690
+Pertigaan Patung Semar (V12),Panggung (V13),0.260
+Panggung (V13),Tugu Tembengan (V15),1.19
+Lampu Merah Dr Oen (V14),Panggung (V13),0.616
+Lampu Merah Dr Oen (V14),Tugu Tembengan (V15),1.36
+Tugu Tembengan (V15),Gerbang Depan UNS (V16),1.31
